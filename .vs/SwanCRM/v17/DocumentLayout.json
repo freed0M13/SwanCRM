@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|c:\\users\\ozgur\\desktop\\swancrm\\swan_crm_customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:swan_crm_customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\mbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:mbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\mbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:mbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|c:\\users\\ozgur\\desktop\\swancrm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|C:\\Users\\Ozgur\\Desktop\\SwanCRM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4FCD1A1-BAA6-4531-B6F0-18EA4F0584E6}|SwanCRM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SWAN_CRM_CUSTOMERS.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\SWAN_CRM_CUSTOMERS.Designer.cs",
+              "RelativeDocumentMoniker": "SWAN_CRM_CUSTOMERS.Designer.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\SWAN_CRM_CUSTOMERS.Designer.cs",
+              "RelativeToolTip": "SWAN_CRM_CUSTOMERS.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:29:59.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:59:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:27:36.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:56:56.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Admin.cs [Design]",
+              "RelativeToolTip": "Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:56:41.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:36:05.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:13:37.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mBox.cs",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\mBox.cs",
+              "RelativeDocumentMoniker": "mBox.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\mBox.cs",
+              "RelativeToolTip": "mBox.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:39:04.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\mBox.cs",
+              "RelativeDocumentMoniker": "mBox.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\mBox.cs [Design]",
+              "RelativeToolTip": "mBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:39:01.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Description.cs",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Description.cs",
+              "RelativeDocumentMoniker": "Description.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Description.cs",
+              "RelativeToolTip": "Description.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:50:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Description.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Description.cs",
+              "RelativeDocumentMoniker": "Description.cs",
+              "ToolTip": "C:\\Users\\Ozgur\\Desktop\\SwanCRM\\Description.cs [Design]",
+              "RelativeToolTip": "Description.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:35:17.589Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

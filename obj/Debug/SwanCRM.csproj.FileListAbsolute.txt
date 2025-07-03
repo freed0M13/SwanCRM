@@ -1,0 +1,14 @@
+D:\[Okul Projeleri]\Projeler\SwanCRM\bin\Debug\SwanCRM.exe.config
+D:\[Okul Projeleri]\Projeler\SwanCRM\bin\Debug\SwanCRM.exe
+D:\[Okul Projeleri]\Projeler\SwanCRM\bin\Debug\SwanCRM.pdb
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.csproj.AssemblyReference.cache
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.Admin.resources
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.Login.resources
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.Main.resources
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.Properties.Resources.resources
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.csproj.GenerateResource.cache
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.csproj.CoreCompileInputs.cache
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.exe
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.pdb
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.mBox.resources
+D:\[Okul Projeleri]\Projeler\SwanCRM\obj\Debug\SwanCRM.Description.resources
