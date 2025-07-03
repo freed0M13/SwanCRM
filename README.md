@@ -1,0 +1,2 @@
+## SwanCRM
+Basic CRM app.
