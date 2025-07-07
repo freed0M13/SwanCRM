@@ -17,4 +17,5 @@ If you find a bug please report using Issues tab.
 2- Open solution.<br>
 3- Make a connection string.<br>
 4- Paste the connection string in the specified places. (SqlConnection connection = new SqlConnection("");)<br>
-5- Compile solution.
+5- Paste the connection string in the "App.config/connectionString" section.<br>
+6- Compile solution.
